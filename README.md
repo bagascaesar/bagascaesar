@@ -1,27 +1,23 @@
 # Bagas Caesar Suherlan
 
 PhD student in Mathematics, College of Computing and Mathematical Sciences, **Khalifa University of Science and Technology**, Abu Dhabi.
-Principal supervisor: Prof. Emilio Porcu.
 
-My research lies at the interface of **spatial statistics**, **functional data analysis** and **stochastic processes**, with applications to climate, emissions and agricultural systems. I hold a background in actuarial science.
+I work on statistical models for data that evolve over space and time, from the theory of stochastic processes to methods for curves and time series.
+
+🌐 **[bagascaesar.github.io](https://bagascaesar.github.io)**
 
 ---
 
-### Research interests
+### Research
 
-- **Space–time covariance modelling**: construction and estimation of covariance functions on spatial and spatio-temporal domains.
-- **CARMA-driven spatial eigenmodes**: continuous-time autoregressive moving-average dynamics on discrete spatial structures.
-- **Functional clustering with latent Markov structure**: model-based clustering of multivariate functional time series (functional mixtures, HMM/HSMM extensions).
-- **Climate–agriculture systems**: statistical modelling of environmental drivers and their socioeconomic co-evolution.
+- **Stochastic processes and space–time models**: random fields, spatio-temporal models, time series, and Markov or latent-state structures, with their estimation, inference and prediction.
+- **Functional data analysis**: representation, dimension reduction and clustering of data observed as curves, surfaces or other functions.
+- **Applications**: environmental, economic and health data.
 
-### Manuscripts and reproducibility repositories
+### Reproducibility
 
-| Manuscript | Status | Repository |
-|---|---|---|
-| *Trajectory-based carbon indicators for national sustainability assessment: Robust functional clustering of 144 countries* | In preparation for *Environmental and Sustainability Indicators* | `trajectory-carbon-indicators` (released at submission) |
-
-Each repository contains the processed data (or a scripted, versioned download where redistribution is restricted), the analysis code, fixed random seeds, and scripts that regenerate every table and figure of the corresponding article.
+Each article will be accompanied by a repository containing the processed data, the analysis code and fixed random seeds, from which its tables and figures can be regenerated.
 
 ### Tools
 
-`R` (fda, TFunHDDC, parallel) · `Python` (geopandas, pandas, matplotlib) · `LaTeX`
+`R` · `Python` · `LaTeX` · `Git`
